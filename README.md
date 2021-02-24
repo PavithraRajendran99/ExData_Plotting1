@@ -119,6 +119,10 @@ The four plots that you will need to construct are shown below.
 ##plot 6
 ![plot of chunk unnamed-chunk-5]
 
+##plot 7
+![plot of chunk unnamed-chunk-5]
+
+
 
 
 
