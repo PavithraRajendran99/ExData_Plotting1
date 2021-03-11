@@ -112,18 +112,7 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
-##plot 5
-![plot of chunk unnamed-chunk-5]
 
-
-##plot 6
-![plot of chunk unnamed-chunk-5]
-
-##plot 7
-![plot of chunk unnamed-chunk-5]
-
-##plot 8
-![plot of chunk unnamed-chunk-8]
 
 
 
